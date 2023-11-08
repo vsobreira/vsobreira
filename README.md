@@ -1,5 +1,5 @@
 # 👋 Olá! Meu nome é Vinícius Sobreira
-- 👨🏻‍💻 Estou em busca do meu primeiro estágio em TI.
+- 👨🏻‍💻 Cursando Sistemas de Informação na UFPE.
 - 🌱 Estudando Java, Python e JavaScript.
-- 📊 Desejoso por construir uma carreira de desenvolvedor back-end (mas curioso por dados).
+- 📊 Jornalista em transição de carreira para desenvolvedor back-end (ou talvez para dados).
 - 📫 Meu e-mail: viniciussobreirademoura@gmail.com
